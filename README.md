@@ -1,1 +1,1 @@
-# iNeuron-API
+# ineuron_api
